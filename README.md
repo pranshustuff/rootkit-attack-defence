@@ -1,5 +1,5 @@
 # rootkit-attack-defence
-Learning Project making versions of rootkits and rootkit detection 
+Learning Project making versions of rootkits and rootkit detection. A daemon writing "Hello-<n>" every 5 seconds is used to simulate a virus that the "rootkit" hides.
 
 ## V1 
 ### Attack
