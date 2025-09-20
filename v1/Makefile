@@ -1,4 +1,5 @@
 obj-m += rk-1.o
+obj-m += ftrace-detector.o
 
 PWD := $(CURDIR)
 
